@@ -1,5 +1,6 @@
 # OEDL-optimised-ensemble-deep-learning
-An optimised ensemble method of deep learning
+An optimised ensemble method of deep learning.
+
 Our approach consists of the following five steps:
 1. Feature extraction, 2. Data processing, 3. Feature selection, 4. Model construction and 5. Model optimization. We will show the corresponding code below.
 Codes 1a and 1b represent the procedure of Radiomics Feature extraction.
